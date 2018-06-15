@@ -32,3 +32,15 @@ The topic name of this producer is Merchant
 
 The consumer will be listening for the topic and will print it as soon as the producer produces the content
 
+# Adding more than 1 topic:
+
+The screenshot shows 2 listeners.
+
+Kafka_Big_Data_Project1/Screenshot from 2018-06-15 02-16-02.png
+
+Prior to the execution of Shakespeare txt file, I had passed a video along with a part of the text file to the Topic "my-topic"
+The screenshot shows the two topics and the producer window.
+
+For more information please check out my video on youtube.
+
+https://youtu.be/FL6LIq_kGGk
