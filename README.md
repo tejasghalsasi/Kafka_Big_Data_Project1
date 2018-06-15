@@ -36,7 +36,7 @@ The consumer will be listening for the topic and will print it as soon as the pr
 
 The screenshot shows 2 listeners.
 
-https://github.com/tejasghalsasi/Kafka_Big_Data_Project1/blob/master/Screenshot%20from%202018-06-15%2002-16-02.png?raw=true
+![Screenshot Illustrating 2 Topics and 2 Listeners] (https://github.com/tejasghalsasi/Kafka_Big_Data_Project1/blob/master/Screenshot%20from%202018-06-15%2002-16-02.png)
 
 
 Prior to the execution of Shakespeare txt file, I had passed a video along with a part of the text file to the Topic "my-topic"
